@@ -79,13 +79,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/elias-acosta-a0ba8619a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdGQ4IXZoRJOt1PD7aQpNDQ%3D%3D">
         LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
     </a>
     &nbsp;|&nbsp;</p>
 </p>
