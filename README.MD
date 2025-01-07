@@ -69,7 +69,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/189679772?s=400&u=4614f09cc0678d91234b5688ae3b7e90c38f6cf1&v=4"
     />
     <p>&nbsp&nbsp&nbspElias Acosta<br>
     &nbsp&nbsp&nbsp
