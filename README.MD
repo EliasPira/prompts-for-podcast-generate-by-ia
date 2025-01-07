@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-    <audio src="output/AudioPodCast.MP3" controls title="Ouça o PodCast"></audio>
-</div>
+https://1drv.ms/u/c/c7138c90b86afe76/EXi8wpqdeE9CjbLYRk1bGi8BlOHqaw89hqMr_G3_wIktLA?e=7fOIje
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
