@@ -22,7 +22,7 @@
     preview do podcast
 </p>
 
-<div align="center">
+<p align="center">
     <audio src="output/AudioPodCast.MP3" controls title="Ouça o PodCast"></audio>
 </div>
 
